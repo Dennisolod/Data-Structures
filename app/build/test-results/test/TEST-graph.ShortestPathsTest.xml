@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="graph.ShortestPathsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-12-06T18:08:49" hostname="DennisLaptop" time="0.027">
+  <properties/>
+  <testcase name="test00Nothing" classname="graph.ShortestPathsTest" time="0.0"/>
+  <testcase name="test01Simple0" classname="graph.ShortestPathsTest" time="0.014"/>
+  <testcase name="test01Simple1" classname="graph.ShortestPathsTest" time="0.002"/>
+  <testcase name="test01Simple2" classname="graph.ShortestPathsTest" time="0.002"/>
+  <testcase name="test02Simple1" classname="graph.ShortestPathsTest" time="0.002"/>
+  <testcase name="test02Simple2" classname="graph.ShortestPathsTest" time="0.001"/>
+  <testcase name="test03Simple1" classname="graph.ShortestPathsTest" time="0.002"/>
+  <testcase name="test04Simple1" classname="graph.ShortestPathsTest" time="0.002"/>
+  <system-out><![CDATA[Graph has: 
+3 nodes.
+3 edges.
+Average degree 1.0
+Graph has: 
+5 nodes.
+10 edges.
+Average degree 2.0
+Graph has: 
+10 nodes.
+14 edges.
+Average degree 1.4
+Graph has: 
+5 nodes.
+10 edges.
+Average degree 2.0
+Graph has: 
+10 nodes.
+14 edges.
+Average degree 1.4
+Graph has: 
+5 nodes.
+10 edges.
+Average degree 2.0
+Graph has: 
+5 nodes.
+10 edges.
+Average degree 2.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
